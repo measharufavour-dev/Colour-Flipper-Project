@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* margin: 10rem auto; */
+  text-align: center;
+  margin: 2rem;
+  background-color: #2f0247;
+  border: 1px solid #2f0247;
+  border-radius: 20px;
+  box-shadow:
+    rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset,
+    rgba(0, 0, 0, 0.06) 0px 2px 1px 0px inset,
+    rgba(0, 0, 0, 0.09) 0px 4px 2px 0px inset,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px 0px inset,
+    rgba(0, 0, 0, 0.09) 0px 16px 8px 0px inset,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px 0px inset;
+}
+
+h2 {
+  margin-top: 8rem;
+  font-size: 3rem;
+  font-weight: 900;
+  color: white;
+  margin: 5rem;
+}
+
+button {
+  margin: 2rem;
+  color: #262a36;
+  background-color: white;
+  margin-bottom: 20rem;
+  padding: 2rem;
+  border: none;
+  border-radius: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  width: 15vw;
+}

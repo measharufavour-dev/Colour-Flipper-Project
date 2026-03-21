@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 8rem;
+}
+
+h3 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  font-weight: 900;
+}
+
+p {
+  width: 40vw;
+  margin-bottom: 3rem;
+}
+
+.highlight {
+  font-weight: 900;
+}
+.btn {
+  display: flex;
+  gap: 2rem;
+}
+
+button {
+  width: 15vw;
+  height: 15vh;
+  border: none;
+  border-radius: 2rem;
+  font-size: 1.2rem;
+}
+
+#green {
+  background-color: green;
+  color: whitesmoke;
+}
+
+#red {
+  background-color: red;
+  color: white;
+}
+#blue {
+  background-color: blue;
+  color: white;
+}
