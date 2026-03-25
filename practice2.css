@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 8rem;
+  background-color: black;
+  color: white;
+}
+h1 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  color: yellow;
+}
+
+p {
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  width: 35vw;
+}
+.highlight {
+  font-weight: 600;
+  color: rgb(199, 199, 92);
+}
+
+.type {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+#input {
+  width: 25vw;
+  height: 25hv;
+  padding: 1.2rem;
+  border-radius: 1.5rem;
+  font-size: 1.2rem;
+  border: none;
+}
+
+button {
+  width: 12vw;
+  height: 12hv;
+  padding: 1rem;
+  border-radius: 1.5rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.result-here {
+  font-size: 1.2rem;
+  font-weight: 800;
+  margin-top: 2rem;
+  padding: 1rem;
+}
